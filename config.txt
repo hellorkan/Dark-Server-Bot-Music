@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=.
-game=.play
+owner=460606140666085378
+prefix=4
+game=Five Music.
 stayinchannel=true
 songinstatus=false
-token=NTMxMTMwMTE2MDM0NTI3MjUz.DxJdIg.pyvjQB0phaEfWwRQCAfmlHz0jb8
+token=NTc3OTc1NTAxMDcxNzEyMjU2.XNs3rA.MTH7EHOUm4mpgKVW_KBZkAGZUTs
